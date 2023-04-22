@@ -1,0 +1,12 @@
+org\uv\Entyties\Producto.class
+org\uv\DAO\DAOProducto.class
+GestionadorHora\Horario.class
+org\uv\DAO\IDAOGeneral.class
+org\uv\Entyties\Detalle_Venta.class
+org\uv\DTOS\DTO_Detalle_Venta.class
+org\uv\DAO\DAOVenta.class
+org\uv\DTOS\DTO_Venta.class
+org\uv\Entyties\Venta.class
+org\uv\DAO\HibernateUtil.class
+org\uv\programa06\Programa06.class
+org\uv\DAO\DAOVenta_Detalle.class
